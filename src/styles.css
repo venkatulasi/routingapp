@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.listitem {
+  display: flex;
+  list-style-type: none;
+  gap: 10px;
+}
